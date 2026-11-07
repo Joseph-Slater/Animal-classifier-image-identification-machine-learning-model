@@ -1,0 +1,9 @@
+This is a pilot study to analyse the models accuracy with some basic statistical analysis.
+By no means is this project large scale or comprehensive, rather it is to aid in developing my machine learning and statistical analysis skills
+
+The analysis was split into 5 sections:
+1. Introduction
+2. Evaluating the relationship between the confidence of the answer and whether the machine was correct
+3. Comparing the errors to identify relationships
+4. Exploring the relationship between the models confidence and if the answer was correct 
+5. Conclusions and evaluations
